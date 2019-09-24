@@ -1,0 +1,6 @@
+C:\Users\vadim\Source\Repos\Recource_lock_detection_Form\Recource_lock_detection_Form\obj\Debug\Resource_lock_detection_Form.Form1.resources
+C:\Users\vadim\Source\Repos\Recource_lock_detection_Form\Recource_lock_detection_Form\obj\Debug\Recource_lock_detection_Form.Properties.Resources.resources
+C:\Users\vadim\Source\Repos\Recource_lock_detection_Form\Recource_lock_detection_Form\obj\Debug\Resource_lock_detection_Form.csproj.GenerateResource.cache
+C:\Users\vadim\Source\Repos\Recource_lock_detection_Form\Recource_lock_detection_Form\obj\Debug\Resource_lock_detection_Form.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Source\Repos\Recource_lock_detection_Form\Recource_lock_detection_Form\obj\Debug\Recource_lock_detection_Form.exe
+C:\Users\vadim\Source\Repos\Recource_lock_detection_Form\Recource_lock_detection_Form\obj\Debug\Recource_lock_detection_Form.pdb
